@@ -1,3 +1,3 @@
 # CML MLOps Banking Demo - PRD Project
 
-This project hosts the model API endpoint and corresponding model monitoring scripts for the XGBoost classifier trained in the [CML MLOps Banking Demo](https://github.com/pdefusco/CML_MLOps_Banking_Demo)
+모델 API endpoint와 XGBoost 분류로 학습된 모델 모니터링 스트립트로 원본은 [CML MLOps Banking Demo](https://github.com/pdefusco/CML_MLOps_Banking_Demo) 를 참조합니다.
